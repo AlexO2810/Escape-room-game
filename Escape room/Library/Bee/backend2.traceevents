@@ -1,0 +1,490 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1718109645714949, "dur":62, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109645715094, "dur":263368, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109645978496, "dur":2605, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109645981181, "dur":433, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109645981713, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1718109645981791, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1718109645981861, "dur":622, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1718109645982529, "dur":285, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718109645982853, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1718109645982945, "dur":319, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718109645983331, "dur":539, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1718109645983903, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718109645983989, "dur":302, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984302, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984456, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984532, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984604, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984710, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984818, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":0, "ts":1718109645984884, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1718109645985001, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993150, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993234, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993392, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993499, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993579, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993689, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993772, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993859, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645993943, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994029, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994108, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994193, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994274, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994359, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994444, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994525, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645994658, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646016821, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646016904, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017101, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017220, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017321, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017424, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017524, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017603, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017736, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017840, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646017972, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646018066, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646018169, "dur":126, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646018306, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646018414, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646018506, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029037, "dur":106, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029158, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029247, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029347, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029467, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029558, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029632, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029738, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029809, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029914, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646029984, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646030145, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646030239, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646030307, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646030404, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646040980, "dur":227, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646041221, "dur":142, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646041374, "dur":113, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646041515, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646041686, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646041797, "dur":148, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646041955, "dur":124, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042089, "dur":115, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042214, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042355, "dur":105, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042484, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042559, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042639, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042718, "dur":100, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646042883, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053307, "dur":98, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053418, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053528, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053652, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053727, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053830, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646053922, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054077, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054171, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054253, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054401, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054496, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054565, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054726, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646054824, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646065741, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646065843, "dur":174, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066041, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066110, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066173, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066274, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066358, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066463, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066547, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066641, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066776, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066836, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646066933, "dur":87, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646067030, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646067130, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646067190, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646067283, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646077792, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646077895, "dur":107, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078013, "dur":86, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078109, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078181, "dur":97, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078288, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078366, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078466, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078568, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room.exe" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078635, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078741, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078808, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078914, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1718109646078979, "dur":94, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646079083, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1718109646079157, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646079257, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1718109646079353, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1718109646090849, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091003, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091105, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091194, "dur":83, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091288, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091389, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091478, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091586, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091703, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091805, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091880, "dur":93, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1718109646091983, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1718109645981691, "dur":110350, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109646092045, "dur":6003699, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109652095746, "dur":293, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718109652096260, "dur":127439, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1718109645982754, "dur":109303, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718109646092063, "dur":56480, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718109646276913, "dur":144173, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1718109646421098, "dur":5795, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718109646426916, "dur":54081, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1718109646481001, "dur":30361, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1718109646511379, "dur":1621, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646513091, "dur":726, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646513952, "dur":6673, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646520634, "dur":255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646520966, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646521048, "dur":815, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646521883, "dur":748, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646526286, "dur":1229, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646527579, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646528521, "dur":359576, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109646888102, "dur":140955, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109647029061, "dur":590947, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109647620013, "dur":978412, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109648598433, "dur":355206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718109648953787, "dur":45975, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player78bc4990-inputdata.json" }}
+,{ "pid":12345, "tid":1, "ts":1718109646421094, "dur":2583508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718109649377624, "dur":433, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718109649450625, "dur":819844, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718109650296046, "dur":5943, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718109650296043, "dur":5948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718109650302028, "dur":23574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1718109650325606, "dur":1770078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109645983227, "dur":108939, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646093672, "dur":29343, "ph":"X", "name": "File",  "args": { "detail":"Library\\Bee\\Player78bc4990-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1718109646092171, "dur":31412, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646123585, "dur":24977, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646148586, "dur":23530, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646421228, "dur":4637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1718109646425877, "dur":1008, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646425871, "dur":1020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646427181, "dur":37186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646464544, "dur":176, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646472033, "dur":203, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646464729, "dur":7544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646472538, "dur":12817, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646485580, "dur":80, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646485669, "dur":4428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646503406, "dur":214, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109646490265, "dur":13399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646509449, "dur":13993, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646523891, "dur":21674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646545757, "dur":620463, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109646545754, "dur":620469, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647166271, "dur":36127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647202490, "dur":217847, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647202487, "dur":217853, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647420390, "dur":3045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647423528, "dur":326831, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647423525, "dur":326838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647750384, "dur":292, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109647750686, "dur":3620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647754501, "dur":215248, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647754497, "dur":215255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647969769, "dur":122, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109647969900, "dur":2799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647978314, "dur":3829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647982379, "dur":2972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647985576, "dur":3105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647988807, "dur":4233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647993272, "dur":4579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109647998117, "dur":3402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648005668, "dur":3790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648009647, "dur":3747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648013599, "dur":3692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648017502, "dur":3808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648021478, "dur":6055, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648029934, "dur":180, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648030124, "dur":4166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648041276, "dur":177, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648041467, "dur":3182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648044844, "dur":4097, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648049222, "dur":3594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648056952, "dur":197, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648053027, "dur":4824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648058047, "dur":3646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648061910, "dur":9819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648071974, "dur":8951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648081099, "dur":4164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648085726, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648085859, "dur":3680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648089823, "dur":3714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648093739, "dur":10842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648104801, "dur":17685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648122681, "dur":163, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648130073, "dur":203, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648122854, "dur":7508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648133925, "dur":200, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648130570, "dur":3643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648141322, "dur":207, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648134436, "dur":7181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648145686, "dur":192, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648141808, "dur":4160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648149255, "dur":198, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648146197, "dur":3319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648154040, "dur":194, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648149758, "dur":10168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648160142, "dur":3759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648164155, "dur":3249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648167702, "dur":4198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648176417, "dur":195, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648172199, "dur":4503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648187267, "dur":214, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648176929, "dur":10684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648191521, "dur":196, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648187821, "dur":9587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648197655, "dur":3755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648205312, "dur":185, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648201652, "dur":3935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648209123, "dur":200, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648205796, "dur":3618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648209617, "dur":8734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648218554, "dur":3649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648228084, "dur":4535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648232913, "dur":5398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648243022, "dur":210, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648238614, "dur":4706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648243527, "dur":4675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648272184, "dur":680, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648248408, "dur":24486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648273121, "dur":218, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648273348, "dur":4933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648374739, "dur":419, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648314098, "dur":61308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648375857, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648375936, "dur":117674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648493796, "dur":4228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648498295, "dur":4061, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648502560, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648508351, "dur":12057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648520605, "dur":499, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648520600, "dur":507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648521123, "dur":53, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648661630, "dur":69, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648521184, "dur":140574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648677321, "dur":204, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648661996, "dur":15594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648677852, "dur":15575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648693660, "dur":188, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648693859, "dur":10766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648774037, "dur":191, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648802093, "dur":190, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648774240, "dur":28178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648809213, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648802867, "dur":6552, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648816278, "dur":5298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718109648821769, "dur":53115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":2, "ts":1718109648899797, "dur":290, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648878290, "dur":21854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718109648953873, "dur":171, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109649105789, "dur":310, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109648954054, "dur":422985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1718109649377147, "dur":13804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1718109649490644, "dur":438, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109649491265, "dur":21869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":2, "ts":1718109649517538, "dur":304, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109649517853, "dur":19843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/resources.assets" }}
+,{ "pid":12345, "tid":2, "ts":1718109650553030, "dur":195, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718109649537856, "dur":1015449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/level1.resS" }}
+,{ "pid":12345, "tid":2, "ts":1718109650556343, "dur":1539347, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109645983202, "dur":108868, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646092076, "dur":682, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646092075, "dur":2994, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646095070, "dur":2005, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646097076, "dur":1957, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646099132, "dur":27975, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets1.resource" }}
+,{ "pid":12345, "tid":3, "ts":1718109646127108, "dur":3754, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1718109646130862, "dur":2426, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\sharedassets1.assets" }}
+,{ "pid":12345, "tid":3, "ts":1718109646134440, "dur":2251, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1718109646136692, "dur":2194, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\Resources\\unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1718109646139349, "dur":2201, "ph":"X", "name": "File",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646099035, "dur":42516, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646141552, "dur":7029, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646148634, "dur":299, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1718109646148583, "dur":352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1718109646217612, "dur":16329, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1718109646234148, "dur":212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646235927, "dur":3286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646239363, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1718109646240208, "dur":5003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1718109646245362, "dur":4558, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646245358, "dur":4566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646250522, "dur":3051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646253716, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718109646254136, "dur":2971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718109646257258, "dur":3986, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646257252, "dur":3996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646261296, "dur":3480, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646264891, "dur":270, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718109646265210, "dur":4053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718109646269442, "dur":207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1718109646291387, "dur":2571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1718109646294124, "dur":222, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646294119, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646294866, "dur":2864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646297868, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718109646298285, "dur":2687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718109646301092, "dur":4620, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646301087, "dur":4629, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646305761, "dur":3334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646309210, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718109646309564, "dur":5454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718109646315185, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1718109646316167, "dur":2999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1718109646319309, "dur":3816, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646319303, "dur":3826, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646323784, "dur":11561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646335529, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718109646335895, "dur":2917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1718109646338949, "dur":12786, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646338943, "dur":12796, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646351788, "dur":3545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1718109646355572, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718109646355915, "dur":4310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1718109646360402, "dur":259, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646360396, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646360681, "dur":152, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646370027, "dur":189, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646361316, "dur":16091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646377632, "dur":13402, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":3, "ts":1718109646377629, "dur":13409, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room.exe" }}
+,{ "pid":12345, "tid":3, "ts":1718109646421861, "dur":876, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646391084, "dur":31722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room.exe" }}
+,{ "pid":12345, "tid":3, "ts":1718109646431243, "dur":2273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646431239, "dur":2282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646433588, "dur":31374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646465171, "dur":111, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646474221, "dur":104, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646465291, "dur":9110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646474759, "dur":78, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646474847, "dur":10642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646485628, "dur":184, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109646485819, "dur":4576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646490580, "dur":19878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646510663, "dur":23614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646534533, "dur":309435, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646534529, "dur":309442, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646844037, "dur":23614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646867769, "dur":241669, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109646867766, "dur":241675, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109647109464, "dur":183, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109647109656, "dur":32860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109647142707, "dur":551443, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109647142704, "dur":551449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109647694175, "dur":196, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109647694381, "dur":25384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109647719958, "dur":1168499, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109647719955, "dur":1168517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109648888521, "dur":9386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718109648898126, "dur":50, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109649101320, "dur":194, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109648898204, "dur":478463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1718109649376780, "dur":144, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109649376932, "dur":51680, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1718109649452170, "dur":427, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109649452662, "dur":38942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1718109649495554, "dur":58232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1718109649764926, "dur":67, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109649553913, "dur":211180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/level1" }}
+,{ "pid":12345, "tid":3, "ts":1718109649765271, "dur":26803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/level0.resS" }}
+,{ "pid":12345, "tid":3, "ts":1718109649792228, "dur":11054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1718109649820023, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718109649820118, "dur":80843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1718109649901103, "dur":26533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1718109649927778, "dur":33800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1718109649961670, "dur":2134059, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109645984196, "dur":107999, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646092196, "dur":2512, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646095324, "dur":982, "ph":"X", "name": "File",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646094709, "dur":2900, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646097610, "dur":1782, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646099393, "dur":49190, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646148623, "dur":13788, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1718109646148584, "dur":13833, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1718109646354890, "dur":3568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1718109646358634, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718109646359607, "dur":2838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1718109646362606, "dur":4514, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646362600, "dur":4525, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646367504, "dur":36500, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646404124, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1718109646407915, "dur":10683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1718109646419387, "dur":27466, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646447001, "dur":766, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.21f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646446997, "dur":773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646447815, "dur":17725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646465708, "dur":10051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646481661, "dur":164, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646475964, "dur":9425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646488167, "dur":5618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646494037, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646494112, "dur":15610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646509920, "dur":14599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646524757, "dur":3270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646528227, "dur":18807, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646547154, "dur":296794, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646547151, "dur":296800, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646843972, "dur":235, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109646844214, "dur":23551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646867876, "dur":4842, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646867873, "dur":4849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646872794, "dur":2605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646875576, "dur":343944, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109646875573, "dur":343950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109647274560, "dur":257, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109647274829, "dur":2587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109647277585, "dur":688447, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109647277582, "dur":688454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109647966055, "dur":286, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109647966350, "dur":2782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109647969228, "dur":631971, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"F:\\Escape room\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109647969225, "dur":631990, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648601282, "dur":11958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648613418, "dur":33776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648647552, "dur":19346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648667370, "dur":126, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109648667505, "dur":21304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648707762, "dur":200, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109648689092, "dur":18968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648708269, "dur":6356, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648714918, "dur":97, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109648721581, "dur":213, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109648715025, "dur":6895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648728798, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109648722160, "dur":6872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648734648, "dur":10043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648797841, "dur":208, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718109648745003, "dur":53143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648798385, "dur":10240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648808903, "dur":8004, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648817106, "dur":5561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718109648822921, "dur":3270355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/aleks/Desktop/Escape room/Escape room_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1718109652350390, "dur":299794, "ph":"X", "name": "ProfilerWriteOutput" }
+,
